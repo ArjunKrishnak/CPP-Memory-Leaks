@@ -1,5 +1,8 @@
 # CPP-Memory-Leaks
 
+# Walkthrough video
+https://www.youtube.com/watch?v=j4dFhyNQe-8&t=523s
+
 ## Memory Leaks
     - No deallocation of allocated memmory in heap using new or delete
     - Using wrong delete where delete[] has to be used
