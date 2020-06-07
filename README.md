@@ -1,6 +1,6 @@
 # CPP-Memory-Leaks
 
-# Walkthrough video
+## Walkthrough video
 https://www.youtube.com/watch?v=j4dFhyNQe-8&t=523s
 
 ## Memory Leaks
